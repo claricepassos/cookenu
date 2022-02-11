@@ -16,3 +16,9 @@ Rede social fictícia de troca de receitas.
  -cd cookenu;\
  -npm install;\
  -npm run start;
+
+## Tecnologias usadas:
+-Typescript;\
+-Express;\
+-Node;\
+-Cors;
